@@ -14,6 +14,6 @@ public class SSD {
                 sum += x;
             }
         }
-        System.out.println("1부터 1000 사이의 소수의 합은: " + sum);
+        System.out.println("1부터 1000 사이의 소수의 합: " + sum);
     }
 }
